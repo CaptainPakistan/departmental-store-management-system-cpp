@@ -42,22 +42,6 @@ A console based C++ application designed to simulate a basic departmental store.
 
 ---
 
-## ▶️ How to Run
-
-### 1. Compile
-
-```
-g++ main.cpp -o store
-```
-
-### 2. Run
-
-```
-./store
-```
-
----
-
 ## 📌 Notes
 
 * The encryption system is designed for **learning purposes only** and is not secure for real-world applications
