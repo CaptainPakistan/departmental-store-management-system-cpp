@@ -1,3 +1,7 @@
+// Departmental Store Management System
+// Author: Captain Pakistan
+// Description: Console based inventory system with file handling and encryption
+
 #include <iostream>
 #include <string>
 #include <cstring>
