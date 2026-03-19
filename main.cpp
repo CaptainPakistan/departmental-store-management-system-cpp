@@ -533,7 +533,7 @@ void menu() {
     system("cls");
     int choice;
     cout << "------------------------------------\n";
-    cout << "         MALIK & SHAMSI MART\n";
+    cout << "         Captain Pakistan Mart\n";
     cout << "------------------------------------\n\n";
     cout << "1. Admin Login\n";
     cout << "2. Exit\n";
