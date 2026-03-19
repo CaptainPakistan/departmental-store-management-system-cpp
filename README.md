@@ -3,6 +3,7 @@ Beginner C++ Project | OOP + File Handling + Encryption
  
 A console based C++ application designed to simulate a basic departmental store. The project focuses on inventory management, admin control, and persistent data storage using file handling, along with a simple custom encryption/decryption mechanism.
 
+⭐ If you like this project, consider giving it a star!
 ---
 
 ##   Features
